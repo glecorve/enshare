@@ -1,4 +1,4 @@
-# Distribued algoritmics project
+# Distributed algorithmics project
 # Shared document manager Enshare
 
 - Éditer les fichiers run_server.sh, run_gui_client.sh et run_console_client.sh et changez la valeur ./build/classes par ./bin
